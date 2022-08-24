@@ -12,7 +12,6 @@ public class StackMainImplimentation {
         stack.addNode(30);
         stack.addNode(56);
 
-
         stack.peak();
         stack.deleteHead();
         stack.printList();

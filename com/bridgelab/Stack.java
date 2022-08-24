@@ -2,7 +2,6 @@ package com.bridgelab;
 
 public class Stack {
     MyNode head;
-    
     public void addNode(int data) {
 
         MyNode node = new MyNode(data);
